@@ -1,3 +1,6 @@
 my own conflict file
 yolo
 whoops
+hello 
+this 
+is 
