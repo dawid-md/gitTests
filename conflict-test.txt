@@ -1,0 +1,3 @@
+my own conflict file
+yolo
+whoops
